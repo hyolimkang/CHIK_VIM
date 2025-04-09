@@ -11,8 +11,3 @@ A mathematical modelling project to estimate the impact of chikungunya vaccines 
 ---
 
 ## 📁 Project Structure
-
-
-1. Clone the repo:
-```bash
-git clone https://github.com/hyolimkang/CHIK_VIM_BRA.git
