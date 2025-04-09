@@ -12,4 +12,4 @@ A mathematical modelling project to estimate the impact of chikungunya vaccines 
 
 ## 📁 Project Structure
 ```markdown
-CHIK_VIM_BRA/ ├── 00_Data/ ├── 01_Script/ ├── CHIK_ORV_impact.Rproj └── README.md
+CHIK_VIM_BRA/ ├── 00_Data/ ├── 01_Script/ ├
