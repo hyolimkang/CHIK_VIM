@@ -1,6 +1,6 @@
 ## Final simulation functions for Ixchiq and Vimkunya incorporating waning dynamics
 
-# fore prevacc
+# for prevacc
 sirv_sim_coverageSwitch <- function(
     # 1) Model dimensions & epidemic parameters
   T, A, N, r,
